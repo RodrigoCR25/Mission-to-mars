@@ -28,5 +28,5 @@ when executing the codes opens the page of https://redplanetscience.com/
 
 When executing part two of the code, it gives us the information table with the temperature of Mars, this information is in the attached csv.
 
-![image]
+![image](https://github.com/RodrigoCR25/Mission-to-mars/blob/main/Mars%20temperature.png)
 
