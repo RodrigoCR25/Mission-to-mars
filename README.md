@@ -1,6 +1,6 @@
-                                                                             # Mission-to-mars
+# Mission-to-mars
 
-I learned
+# I learned
 
 1. Describe basic HyperText Markup Language (HTML) elements.
 
@@ -14,7 +14,7 @@ I learned
 
 __________________________________________________________________________________________________________________________________________________________________
 
-Overviwe
+# Overviwe
 
 Using the obtained data, the extraction, organization, analysis and visualization of the data was carried out, with the purpose of extracting titles and obtaining a preview of the text of the Mars news articles as well as performing the scraping and analysis of the meteorological data. of Mars, which exist in a table.
 
